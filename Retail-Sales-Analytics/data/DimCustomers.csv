@@ -1,0 +1,121 @@
+﻿CustomerID,CustomerName,Segment,City,State,Region
+C001,Nisha Rao,Consumer,Hyderabad,Telangana,South
+C002,Nisha Mishra,Consumer,Pune,Maharashtra,West
+C003,Amit Rao,Consumer,Pune,Maharashtra,West
+C004,Rahul Kapoor,Corporate,Ahmedabad,Gujarat,West
+C005,Ishaan Sharma,Home Office,Kolkata,West Bengal,East
+C006,Ira Desai,Consumer,Chennai,Tamil Nadu,South
+C007,Kabir Iyer,Consumer,Hyderabad,Telangana,South
+C008,Karan Nair,Home Office,Delhi,Delhi,North
+C009,Riya Mishra,Corporate,Hyderabad,Telangana,South
+C010,Ishaan Sharma,Corporate,Ahmedabad,Gujarat,West
+C011,Myra Das,Corporate,Bengaluru,Karnataka,South
+C012,Sneha Bose,Consumer,Kolkata,West Bengal,East
+C013,Rohan Mehta,Home Office,Delhi,Delhi,North
+C014,Rahul Patel,Consumer,Mumbai,Maharashtra,West
+C015,Rohit Kapoor,Home Office,Mumbai,Maharashtra,West
+C016,Kavya Das,Corporate,Bengaluru,Karnataka,South
+C017,  Sai Sharma  ,Corporate,Pune,Maharashtra,West
+C018,Aanya Bose,Home Office,Hyderabad,Telangana,South
+C019,Rohan Rao,Consumer,Hyderabad,Telangana,South
+C020,Karan Joshi,Consumer,Mumbai,Maharashtra,West
+C021,Rohan Nair,Home Office,Mumbai,Maharashtra,West
+C022,Ishaan Shah,Consumer,Mumbai,Maharashtra,West
+C023,Rohan Desai,Consumer,Delhi,Delhi,North
+C024,Amit Bose,Consumer,Chennai,Tamil Nadu,South
+C025,Riya Singh,Home Office,Mumbai,Maharashtra,West
+C026,Reyansh Rao,Consumer,Kolkata,West Bengal,East
+C027,Reyansh Reddy,Consumer,Delhi,Delhi,North
+C028,Rahul Das,Corporate,Kolkata,West Bengal,East
+C029,Amit Shah,Home Office,Mumbai,Maharashtra,West
+C030,Priya Iyer,Corporate,Hyderabad,Telangana,South
+C031,Ishaan Shah,Consumer,Hyderabad,Telangana,South
+C032,Rohan Kulkarni,Consumer,Ahmedabad,Gujarat,West
+C033,Pooja Iyer,Home Office,Hyderabad,Telangana,South
+C034,Karan Gupta,Home Office,Hyderabad,Telangana,South
+C035,Sneha Shah,Home Office,Chennai,Tamil Nadu,South
+C036,Ira Kapoor,Corporate,Pune,Maharashtra,West
+C037,Nisha Shah,Consumer,Chennai,Tamil Nadu,South
+C038,Vihaan Mishra,Consumer,Mumbai,Maharashtra,West
+C039,Nisha Kulkarni,Consumer,Pune,Maharashtra,West
+C040,Saanvi Mehta,Corporate,Mumbai,Maharashtra,West
+C041,Saanvi Verma,Consumer,chennai,Tamil Nadu,South
+C042,Saanvi Khan,Corporate,Pune,Maharashtra,West
+C043,Anaya Shah,Consumer,Kolkata,West Bengal,East
+C044,Riya Shah,Consumer,Bengaluru,Karnataka,South
+C045,Rohit Sharma,Consumer,Chennai,Tamil Nadu,South
+C046,Kavya Rao,Corporate,Mumbai,Maharashtra,West
+C047,Riya Das,Consumer,Delhi,Delhi,North
+C048,Aarav Joshi,Consumer,Ahmedabad,Gujarat,West
+C049,Sai Joshi,Corporate,Delhi,Delhi,North
+C050,Arjun Bose,Consumer,Delhi,Delhi,North
+C051,Rahul Reddy,Consumer,Mumbai,Maharashtra,West
+C052,Ishaan Nair,Consumer,Hyderabad,Telangana,South
+C053,Aarav Mishra,Corporate,Kolkata,West Bengal,East
+C054,Krishna Reddy,Consumer,Mumbai,Maharashtra,West
+C055,Aarav Sharma,Home Office,Delhi,Delhi,North
+C056,Anaya Patel,Consumer,Pune,Maharashtra,West
+C057,Nisha Das,Home Office,Hyderabad,Telangana,South
+C058,  Krishna Kapoor  ,Corporate,Kolkata,West Bengal,East
+C059,Rahul Singh,Consumer,Delhi,Delhi,North
+C060,Reyansh Kulkarni,Consumer,Pune,Maharashtra,West
+C061,Aanya Kulkarni,Consumer,Mumbai,Maharashtra,West
+C062,Vihaan Mehta,Consumer,Ahmedabad,Gujarat,West
+C063,Riya Singh,Consumer,Delhi,Delhi,North
+C064,Karan Joshi,Consumer,Kolkata,West Bengal,East
+C065,Arjun Rao,Home Office,Kolkata,West Bengal,East
+C066,Ira Khan,Home Office,Hyderabad,Telangana,South
+C067,Rohan Singh,Corporate,Chennai,Tamil Nadu,South
+C068,Ishaan Patel,Consumer,Delhi,Delhi,North
+C069,Neha Verma,Home Office,Hyderabad,Telangana,South
+C070,Anaya Das,Consumer,Chennai,Tamil Nadu,South
+C071,Vikram Bose,Home Office,Ahmedabad,Gujarat,West
+C072,Anaya Khan,Consumer,Bengaluru,Karnataka,South
+C073,Kabir Bose,Consumer,Pune,Maharashtra,West
+C074,Aarav Patel,Consumer,Kolkata,West Bengal,East
+C075,Pooja Verma,Corporate,Kolkata,West Bengal,East
+C076,Reyansh Mishra,Consumer,Bengaluru,Karnataka,South
+C077,Karan Iyer,Consumer,Pune,Maharashtra,West
+C078,Reyansh Iyer,Consumer,Hyderabad,Telangana,South
+C079,Neha Joshi,Corporate,Hyderabad,Telangana,South
+C080,Aditya Das,Consumer,Pune,Maharashtra,West
+C081,Neha Gupta,Consumer,Mumbai,Maharashtra,West
+C082,Pooja Joshi,Corporate,Delhi,Delhi,North
+C083,Priya Kulkarni,Consumer,Mumbai,Maharashtra,West
+C084,Riya Singh,Consumer,Hyderabad,Telangana,South
+C085,Meera Sharma,Consumer,Mumbai,Maharashtra,West
+C086,Vihaan Desai,Consumer,Kolkata,West Bengal,East
+C087,Nisha Malhotra,Corporate,KOLKATA,West Bengal,East
+C088,Myra Bose,Consumer,Ahmedabad,Gujarat,West
+C089,Krishna Iyer,Consumer,Bengaluru,Karnataka,South
+C090,Sai Rao,Home Office,Chennai,Tamil Nadu,South
+C091,Sai Verma,Corporate,Ahmedabad,Gujarat,West
+C092,Rohit Gupta,Corporate,Delhi,Delhi,North
+C093,Karan Shah,Home Office,Mumbai,Maharashtra,West
+C094,Krishna Gupta,Consumer,Chennai,Tamil Nadu,South
+C095,Aarav Mishra,Consumer,Bengaluru,Karnataka,South
+C096,Karan Kapoor,Consumer,Delhi,Delhi,North
+C097,Krishna Malhotra,Corporate,Chennai,Tamil Nadu,South
+C098,Pooja Reddy,Consumer,Chennai,Tamil Nadu,South
+C099,Kavya Gupta,Corporate,Delhi,Delhi,North
+C100,Nisha Khan,Consumer,Ahmedabad,Gujarat,West
+C101,Aditya Das,Consumer,Delhi,Delhi,North
+C102,Kabir Singh,Consumer,Delhi,Delhi,North
+C103,  Pooja Iyer  ,Home Office,Chennai,Tamil Nadu,South
+C104,Isha Kulkarni,Consumer,Bengaluru,Karnataka,South
+C105,Sai Malhotra,Home Office,Chennai,Tamil Nadu,South
+C106,Aanya Desai,Consumer,Delhi,Delhi,North
+C107,Meera Gupta,Corporate,Mumbai,Maharashtra,West
+C108,Priya Mishra,Consumer,Ahmedabad,Gujarat,West
+C109,Vihaan Desai,Home Office,Kolkata,West Bengal,East
+C110,Rohan Kapoor,Consumer,Pune,Maharashtra,West
+C111,Arjun Desai,Consumer,Kolkata,West Bengal,East
+C112,Rohit Iyer,Consumer,Kolkata,West Bengal,East
+C113,Ira Joshi,Corporate,Mumbai,Maharashtra,West
+C114,Isha Mishra,Home Office,Ahmedabad,Gujarat,West
+C115,Sneha Desai,Consumer,Hyderabad,Telangana,South
+C116,Anaya Shah,Corporate,Bengaluru,Karnataka,South
+C117,Amit Gupta,Consumer,Hyderabad,Telangana,South
+C118,Vikram Gupta,Corporate,Hyderabad,Telangana,South
+C119,Riya Das,Consumer,Ahmedabad,Gujarat,West
+C120,Riya Patel,Corporate,Delhi,Delhi,North

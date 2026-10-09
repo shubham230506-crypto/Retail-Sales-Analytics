@@ -1,0 +1,25 @@
+﻿ProductID,ProductName,Category,Subcategory,BaseUnitPrice,BaseUnitCost
+P001,Laptop Pro 15,Electronics,Computers,78000,58500
+P002,Laptop Air 13,Electronics,Computers,62000,45500
+P003,24-inch Monitor,Electronics,Displays,14500,9800
+P004,27-inch Monitor,Electronics,Displays,22500,15800
+P005,Wireless Mouse,Electronics,Accessories,1200,650
+P006,Mechanical Keyboard,Electronics,Accessories,3500,2200
+P007,USB-C Hub,Electronics,Accessories,2800,1700
+P008,Noise-Cancel Headphones,Electronics,Audio,8900,5700
+P009,Webcam HD,Electronics,Accessories,3200,1900
+P010,Office Chair,Furniture,Chairs,12500,8200
+P011,Ergonomic Chair,Furniture,Chairs,19500,12800
+P012,Study Desk,Furniture,Tables,9800,6200
+P013,Standing Desk,Furniture,Tables,26500,18400
+P014,Bookshelf,Furniture,Storage,7200,4600
+P015,Drawer Unit,Furniture,Storage,6100,3900
+P016,Printer Paper A4,Office Supplies,Paper,450,260
+P017,Notebook Pack,Office Supplies,Paper,320,170
+P018,Ball Pen Box,Office Supplies,Writing,280,120
+P019,Permanent Marker Set,Office Supplies,Writing,380,190
+P020,File Folder Pack,Office Supplies,Storage,520,290
+P021,Desk Organizer,Office Supplies,Storage,950,520
+P022,Laser Printer,Electronics,Printers,18500,13200
+P023,Ink Cartridge,Office Supplies,Printer Supplies,2100,1250
+P024,Surge Protector,Electronics,Accessories,1600,900

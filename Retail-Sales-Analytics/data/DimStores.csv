@@ -1,0 +1,9 @@
+﻿StoreID,StoreName,City,State,Region
+S001,Mumbai Central,Mumbai,Maharashtra,West
+S002,Pune Hub,Pune,Maharashtra,West
+S003,Bengaluru Tech,Bengaluru,Karnataka,South
+S004,Delhi North,Delhi,Delhi,North
+S005,Hyderabad Plaza,Hyderabad,Telangana,South
+S006,Chennai Point,Chennai,Tamil Nadu,South
+S007,Kolkata East,Kolkata,West Bengal,East
+S008,Ahmedabad West,Ahmedabad,Gujarat,West
